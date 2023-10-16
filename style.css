@@ -26,7 +26,7 @@ header {
 
 main {
     width: 100%;
-    height: calc(100vh - 200px);
+    height: calc(100vh - 220px);
     padding-left: 50px;
     overflow: auto;
 }
@@ -39,7 +39,7 @@ footer {
     font-size: 20px;
     line-height: 1.5;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 footer a {
